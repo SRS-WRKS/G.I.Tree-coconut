@@ -27,6 +27,10 @@ For example https://pldb.com/posts/originCountries11-3-2022.html can be used to 
 
 The notation should also describe which keys are required, which are optional.
 
+Can i get a quality score for pldb files in my DB ??
+
+In theory it should be possible by seeing how many additional keys can be added using meta keys.
+
 
 Currently in pldb lists are generated during npm build command
 ==================
